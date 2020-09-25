@@ -21,19 +21,21 @@ permalink: /cv/
 
 
 ## TECHNICAL SKILLS
-* **Security**: Wireshark, Burp Suite Community Edition, OSSEC HIDS, Netgate SG-1100, pfSense, MacOS Little Snitch, GnuPG (GPG), I2P, Site/Server Certificate Authority and Certificate creation and management
-* **RDBMS**: SQL, advanced PostgreSQL, schema design and implementation, ACLs and server administration, MySQL, SQLite3, SQLAlchemy
-* **Data analysis and machine learning**: Numpy, Pandas, Scikit-learn, Keras, Tensorflow, TFLearn
+* **Security**: Wireshark, Burp Suite Community Edition, OSSEC HIDS, Netgate SG-1100, pfSense, MacOS Little Snitch, GnuPG (GPG), I2P, Site/Server Certificate Authority and Certificate creation and management, WireGuard VPN, Algo VPN, Network Security, Firewalls, FERN Wifi Cracker
+* **Postgres**: server setup, user administration, ACLs (`pg_hba.conf`), replication
+* **RDBMS**: SQL, advanced PostgreSQL, schema design and implementation, MySQL, SQLite3, SQLAlchemy
+* **Data analysis and machine learning**: Numpy, Pandas, Scikit-Learn, Keras, Tensorflow, TFLearn
 * **Python**: matplotlib, Numpy, Jupyter Notebooks, psycopg2, SQLAlchemy
 * **Revision control and issue tracking**: Git, GitHub, Redmine (server setup, workflow setup, use, and administration), GitLab
 * **Languages**: Bash, C, Scala, Java, C#, HTML, CSS, JavaScript, Elm
-* **Additional Language Exposure**: Racket, Matlab, Prolog
-* **Web technologies**: Python Flacon, Django
+* **Additional Language Exposure**: Racket, Matlab, Prolog, R
+* **Web technologies**: Python Flacon, Django, Selenium, Cypress
 * **Programming concepts**: MVC, Object-Oriented Design, Map/Reduce, Functional Programming
 * **NoSQL**: MongoDB, CQL (Cassandra Query Language)
 * **Coding software**: IntelliJ, PyCharm, Linting, Coding Standards
 * **Server management**: AWS, EC2, server setup and management (Ubuntu and Debian), secure ssh access, Redmine setup and administration, Wordpress setup and management
-* **Additional tools**: GNU Core Utilities
+* **Computer Networks**: Switches, Encapsulation, DNS, ARP, ICMP, NAT, Routing, Subnets, BGP, UDP, TCP/IP, Sockets, C server/client programming, 
+* **Additional tools**: GNU Core Utilities, IPython, Jupyter
 
 
 ## PROJECTS
