@@ -29,7 +29,7 @@ permalink: /cv/
 * **Revision control and issue tracking**: Git, GitHub, Redmine (server setup, workflow setup, use, and administration), GitLab
 * **Languages**: Bash, C, Scala, Java, C#, HTML, CSS, JavaScript, Elm
 * **Additional Language Exposure**: Racket, Matlab, Prolog, R
-* **Web technologies**: Python Flacon, Django, Selenium, Cypress
+* **Web technologies**: Python Flacon, Django, Cypress
 * **Programming concepts**: MVC, Object-Oriented Design, Map/Reduce, Functional Programming
 * **NoSQL**: MongoDB, CQL (Cassandra Query Language)
 * **Coding software**: IntelliJ, PyCharm, Linting, Coding Standards
