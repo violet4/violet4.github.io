@@ -17,7 +17,9 @@ permalink: /cv/
     Intro to Database Management Systems,
     Software Engineering
 
-<strong>Certification</strong>, Introduction to Data Science in Python, Coursera, 2017
+**Adult Mental Health First Aid USA**, June 2019
+
+**Certification**, Introduction to Data Science in Python, Coursera, 2017
 
 
 ## TECHNICAL SKILLS
