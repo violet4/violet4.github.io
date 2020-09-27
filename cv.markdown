@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-## EDUCATION
+## EDUCATION AND CERTIFICATIONS
 <strong>B.S. Computer Science</strong>, San José State University, San Jose, CA, May 2020
 
 <strong>Coursework</strong>:
@@ -20,7 +20,6 @@ permalink: /cv/
 **Adult Mental Health First Aid USA**, June 2019
 
 **Certification**, Introduction to Data Science in Python, Coursera, 2017
-
 
 ## TECHNICAL SKILLS
 * **Security**: Wireshark, Burp Suite Community Edition, OSSEC HIDS, Netgate SG-1100, pfSense, MacOS Little Snitch, GnuPG (GPG), I2P, Site/Server Certificate Authority and Certificate creation and management, WireGuard VPN, Algo VPN, Network Security, Firewalls, FERN Wifi Cracker
