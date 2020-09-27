@@ -4,6 +4,10 @@ title: CV
 permalink: /cv/
 ---
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
 ## EDUCATION AND CERTIFICATIONS
 <strong>B.S. Computer Science</strong>, San José State University, San Jose, CA, May 2020
 
@@ -16,6 +20,8 @@ permalink: /cv/
     Computer Architecture,
     Intro to Database Management Systems,
     Software Engineering
+
+**CISSP**, Certification, $$(\text{ISC})^2$$, September 2020 – Present
 
 **Adult Mental Health First Aid USA**, Certification, June 2019
 
