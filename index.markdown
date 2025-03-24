@@ -6,3 +6,5 @@ layout: home
 ---
 
 This is index.markdown.
+
+* [Proportion Calculator](proportion_calculator)
