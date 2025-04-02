@@ -15,6 +15,9 @@ Here is my solution:
 $ cat ~/bin/popup_text 
 #!/bin/bash
 
+# optionally log all URLs to file
+# echo "$1" >> /tmp/url_log.txt
+
 zenity --entry --entry-text="$1"
 exit 0
 ```
