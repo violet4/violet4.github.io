@@ -19,6 +19,8 @@ zenity --entry --entry-text="$1"
 exit 0
 ```
 
+This script is set as executable and registered as my default URL handler, instead of a web browser such as Firefox.
+
 Whenever I click a link, it opens a popup where I can view and copy the link. I can't even accidentally open it, as copying is the only functionality supported. Then I can paste it in my browser, or wherever else, if I so please.
 
 I used to groan about how email clients didn't protect users from malicious links in emails. But it's time to take control into our own hands, don't you think?
