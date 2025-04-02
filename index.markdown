@@ -5,6 +5,6 @@
 layout: home
 ---
 
-This is index.markdown.
+This file is index.markdown.
 
-* [Proportion Calculator](proportion_calculator)
+<!-- * [Proportion Calculator](proportion_calculator) -->
